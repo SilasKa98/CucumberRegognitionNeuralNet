@@ -1,5 +1,9 @@
 # CucumberRegognitionNeuralNet
 
+Source of the Data:
+https://www.kaggle.com/datasets/muratkokludataset/date-fruit-datasets
+
+
 Following Packages need to be installed into the virtual Environment:
 
       pip install tensorflow==2.8
